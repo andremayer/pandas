@@ -1,12 +1,12 @@
 # pandas L&L
 
-Pandas is an open-source Python library used for working with data sets.
+Pandas is an open source data analysis and manipulation tool, built on top of the Python programming language.
 
 It has functions for analyzing, cleaning, exploring, and manipulating data.
 
 The name "Pandas" has a reference to both "Panel Data", and "Python Data Analysis" and was created by Wes McKinney in 2008.
 
-![image](https://user-images.githubusercontent.com/1262917/181990343-674cba4b-ab03-4bcb-b719-52ebbc4925cb.png)
+<img src="https://user-images.githubusercontent.com/1262917/181990343-674cba4b-ab03-4bcb-b719-52ebbc4925cb.png" width="750">
 
 
 Pandas Reference book: https://pandas.pydata.org/docs/pandas.pdf
